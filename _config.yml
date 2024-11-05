@@ -3,7 +3,7 @@ title: Johnny's Portfolio
 email: sharsheev01@allegheny.edu
 baseurl: "/jekyll-portfolio"
 url: ""
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Welcome to my personal portfolio, showcasing innovative projects in web development, software engineering, and design. Explore my journey as a developer and discover my work in building solutions that drive user engagement and business growth. Whether you're looking for modern web applications, interactive simulations, or robust software systems, this is where creativity meets technology"
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
@@ -53,8 +53,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 520 N Main St
+  - line: Meadville, PA 16335
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'

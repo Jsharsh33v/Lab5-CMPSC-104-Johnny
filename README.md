@@ -23,11 +23,11 @@ description: The description of the project
 ---
 ```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+## Johnny's portfolio 
+View this jekyll theme in action [here](http://127.0.0.1:4000/jekyll-portfolio/)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![screenshot](img/portfolio-screenshot.png)
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)

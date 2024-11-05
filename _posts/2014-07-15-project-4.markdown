@@ -4,8 +4,8 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2021
+client: Personal Project
+category: Software Development
+description: This project was a personal endeavor to create an emulator for a retro gaming console. Written in C++, this emulator allows users to run classic games from the 90s and early 2000s on modern PCs. The project focused on performance optimizations, graphical rendering accuracy, and user interface design.
 ---

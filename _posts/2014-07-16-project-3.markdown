@@ -4,8 +4,10 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2024
+client: Grand Circus Tour
+category: Event Management Software
+description: Designed a dynamic ticketing system for the Grand Circus Tour. This platform included real-time seating selection, payment gateway integration, and automatic email notifications. The solution streamlined ticket sales and offered real-time analytics to track ticket sales performance.
+
+
 ---

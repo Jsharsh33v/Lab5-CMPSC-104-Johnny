@@ -4,8 +4,8 @@ modal-id: 6
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: September 2024
+client: Secure Solutions Inc.
+category: Security Software Development
+description: Created a secure deposit box management system for a banking institution. This system incorporated biometric security, real-time tracking, and user-friendly interfaces for both administrators and customers. It enhanced the bank's security measures while providing seamless access to customers' assets.
 ---

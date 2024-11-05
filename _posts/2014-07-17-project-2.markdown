@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2022
+client: Sweet Delights Bakery
+category: E-commerce Platform Development
+description: I developed an e-commerce platform for Sweet Delights Bakery, featuring an intuitive cake selection and customization system. Customers can build their cakes online, choose flavors, and schedule pickups or deliveries. This improved the customer experience and increased online sales by 30%.
 ---
